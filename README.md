@@ -2,20 +2,29 @@
 <img src="logo_sdutalk1.png" width="60%">
 </p>
 
-## About
+## About 🤔
 A ___Social media___ for SDUdents to chatting and posting.
-## Members
-- __Yerzhanov Beksultan__ - [e-mail](200103513@stu.sdu.edu.kz)
-- __Tashim Darkhan__ - [e-mail](200103208@stu.sdu.edu.kz)
+## Members 🙋🏻‍♂️
+:information_desk_person:- __Yerzhanov Beksultan__ [:email:](200103513@stu.sdu.edu.kz)
+:information_desk_person:- __Tashim Darkhan__ [:email:](200103208@stu.sdu.edu.kz)
 
-Technologies | Features
-:------------|:--------
-Python 3.6   |Sign up
-Javascript   |Login
-Jquery       |Article post
-Django 4     |Article delete
-HTML5        |Article search
-CSS3         |Password reset
-Bootstrap 4  |
-Font awesome |
-SQLite       |
+## Technologies 👨🏻‍💻
+
+- Python 3.6
+- Javascript
+- Jquery
+- Django 4
+- HTML5
+- CSS3
+- Bootstrap 4
+- Font awesome
+- SQLite
+
+## Features 
+
+✨ Sign up
+✨ Login
+✨ Article post
+✨ Article delete
+✨ Article search
+✨ Password reset

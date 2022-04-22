@@ -25,9 +25,9 @@ A ___Social media___ for SDUdents to chatting and posting.
 
 ## Features 
 
-✨ Sign up
-✨ Login
-✨ Article post
-✨ Article delete
-✨ Article search
-✨ Password reset
+- ✨ Sign up
+- ✨ Login
+- ✨ Article post
+- ✨ Article delete
+- ✨ Article search
+- ✨ Password reset

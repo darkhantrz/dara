@@ -3,10 +3,13 @@
 </p>
 
 ## About 🤔
+
 A ___Social media___ for SDUdents to chatting and posting.
+
 ## Members 🙋🏻‍♂️
-:information_desk_person:- __Yerzhanov Beksultan__ [:email:](200103513@stu.sdu.edu.kz)
-:information_desk_person:- __Tashim Darkhan__ [:email:](200103208@stu.sdu.edu.kz)
+
+- :information_desk_person: __Yerzhanov Beksultan__ [:email:](200103513@stu.sdu.edu.kz)
+- :information_desk_person: __Tashim Darkhan__ [:email:](200103208@stu.sdu.edu.kz)
 
 ## Technologies 👨🏻‍💻
 

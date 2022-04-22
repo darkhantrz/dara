@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="logo_sdutalk1.png" width="60%">
+<img src="logo_sdutalk1.png" width="40%">
 </p>
 
 ## About 🤔
